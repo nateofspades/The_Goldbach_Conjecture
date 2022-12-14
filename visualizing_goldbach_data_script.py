@@ -25,8 +25,8 @@ df17 = pd.read_csv("Goldbach_Conjecture_Data/df17.csv")
 df = pd.concat([df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11, df12, df13, df14, df15, df16, df17])
 df = df[['even', 'goldbach_pair_count']].drop_duplicates().reset_index(drop=True)
 
-# Generate the scatter plot which has the evens from 6 to 15000000 along the x-axis,
-# and the Goldbach pair counts along the y-axis.
+# Generate the scatter plot which has the evens from 6 to 15000000 along the x-axis, and the Goldbach pair counts along
+# the y-axis. The resulting scatter plot can be seen is found in visualizing_goldbach_data_graph_6_15000000.png.
 
 fig = plt.figure(figsize=[15,8])
 ax = fig.add_subplot()
