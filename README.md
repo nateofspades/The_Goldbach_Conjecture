@@ -4,7 +4,7 @@ Dating back to 1742, the Goldbach Conjecture is one of the most famous still-uns
 
 For example:
 
-**4** = 2 + 2                 (2 and 2 are prime)
+**4** = 2 + 2                 (2 and 2 are prime) </br>
 **6** = 3 + 3                 (3 and 3 are prime)
 **8** = 3 + 5                 (3 and 5 are prime)
 **10** = 3 + 7 = 5 + 5        (3 and 7 are prime; 5 and 5 are prime)
