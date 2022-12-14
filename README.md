@@ -5,9 +5,9 @@ Dating back to 1742, the Goldbach Conjecture is one of the most famous still-uns
 For example:
 
 **4** = 2 + 2                 (2 and 2 are prime) </br>
-**6** = 3 + 3                 (3 and 3 are prime)
-**8** = 3 + 5                 (3 and 5 are prime)
-**10** = 3 + 7 = 5 + 5        (3 and 7 are prime; 5 and 5 are prime)
+**6** = 3 + 3                 (3 and 3 are prime) </br>
+**8** = 3 + 5                 (3 and 5 are prime) </br>
+**10** = 3 + 7 = 5 + 5        (3 and 7 are prime; 5 and 5 are prime) </br>
 ...
 
 I first encountered this problem in the margins of my grade 11 math textbook, and I have since played around with it from time to time. One key advantage in pursuing this problem that I have now versus when I was a high school student is that now I know how to code. This has allowed me, in particular, to create the data visualization found in **visualizing_goldbach_data_graph_6_15000000.png**.
@@ -16,10 +16,10 @@ Along the x-axis of the graph in this file you'll find all of the evens from 6 t
 
 For example:
 
-4 = 2 + 2                 ->      **Goldbach pair count** = 1
-6 = 3 + 3                 ->      **Goldbach pair count** = 1
-8 = 3 + 5                 ->      **Goldbach pair count** = 1
-10 = 3 + 7 = 5 + 5        ->      **Goldbach pair count** = 2
+4 = 2 + 2                 ->      **Goldbach pair count** = 1 </br>
+6 = 3 + 3                 ->      **Goldbach pair count** = 1 </br>
+8 = 3 + 5                 ->      **Goldbach pair count** = 1 </br>
+10 = 3 + 7 = 5 + 5        ->      **Goldbach pair count** = 2 </br>
 
 Pay special attention to the bottom blue "edge" of the triangle-like shape found in the graph. 
 
