@@ -10,7 +10,7 @@ For example:
 **10** = 3 + 7 = 5 + 5        (3 and 7 are prime; 5 and 5 are prime) </br>
 ...
 
-I first encountered this problem in the margins of my grade 11 math textbook, and I have since played around with it from time to time. One key advantage in pursuing this problem that I have now versus when I was a high school student is that now I know how to code. This has allowed me, in particular, to create the data visualization found in **visualizing_goldbach_data_graph_6_15000000.png**.
+I first encountered this problem in the margins of my grade 11 math textbook, and I have since played around with it from time to time. One key advantage in pursuing this problem that I have now versus when I was a high school student is that now I know how to code. This has allowed me, in particular, to create the data visualization found in [visualizing_goldbach_data_graph_6_15000000.png](https://github.com/nateofspades/The_Goldbach_Conjecture/blob/master/visualizing_goldbach_data_graph_6_15000000.png).
 
 Along the x-axis of the graph in this file you'll find all of the evens from 6 to 15000000. Along the y-axis you'll find what I have called **Goldbach pair counts**. An even number's Goldbach pair count is defined as the number of unordered pairs of primes which sum to that even number.
 
